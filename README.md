@@ -1,7 +1,4 @@
 https://github-readme-stats.vercel.app/api?username=Msts-O&show_icons=true&theme=radical 
 
-https://github.com/Masa/github-readme-stats
 
-https://github-readme-stats.vercel.app/api?username=Masa
-
-https://github-readme-stats.vercel.app/api?username=Masa&count_private=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=Msts-O https://github.com/Msts-O/github-readme-stats
