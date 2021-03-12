@@ -3,3 +3,5 @@ https://github-readme-stats.vercel.app/api?username=Masa&show_icons=true&theme=r
 https://github.com/Masa/github-readme-stats
 
 https://github-readme-stats.vercel.app/api?username=Masa
+
+https://github-readme-stats.vercel.app/api?username=Masa&count_private=true
